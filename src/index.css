@@ -29,6 +29,7 @@ body {
   margin: auto;
   height: 100px;
   width: 100px;
+  cursor: pointer;
 }
 
 .empty-plate {
